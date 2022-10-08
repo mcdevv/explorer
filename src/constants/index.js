@@ -18,8 +18,8 @@ export const appTitle = 'Explorer'
 
 export const environmentDomains = {
   localhost: 'http://localhost:3000',
-  dev: 'https://develop-photon.pi.spectrumtoolbox.com/',
-  prod: 'https://photon.pi.spectrumtoolbox.com/',
+  dev: 'https://develop-photon.pi.spectrumtoolbox.com',
+  prod: 'https://photon.pi.spectrumtoolbox.com',
 }
 
 export const ephemeralBaseDomain = '-photon-api.spectruminternal.blue'
